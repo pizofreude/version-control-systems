@@ -1,6 +1,6 @@
 # **Git 101: Version Control Systems for Dummies.**
 
-A long time ago in a galaxy far, far away... there exists three types of Version Control Systems as data organizer:
+A long time ago in a galaxy far, far away... there exist three types of Version Control Systems as data organizer:
 
 1. Local Version Control System
 2. Centralized Version Control System
