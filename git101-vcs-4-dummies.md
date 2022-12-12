@@ -35,11 +35,13 @@ No code solution for data organizer.
 
 ## **2. Centralized Version Control System**
 
-In short, centralized VCS is simply local VCS stored in cloud storage with collaboration capabilities.
+In short, centralized VCS is simply local file VCS that can be stored in cloud storage with limited collaboration capabilities.
 
-User set their own file nomenclature and do collaboration work which the cloud storage hosting do smart backup automatically for the version control.
+SVN is a Centralized VCS (CVCS) and is pretty well integrated to Windows thanks to TortoiseSVN, making it user-friendly: you can manage your files right inside the Windows Explorer, which removes the hassles out of VCS - no command line to learn (it's quite hard to say the same about Git). You keep track of the work all along the design phase, and you know which version you sent to manufacturing thanks to "tags". The workflow is not imposed by SVN, making it completely flexible and suitable for CAD.
 
-E.g.: MS Office Packages edited in OneDrive by multiple users simultaneously.
+Another example would be like using MS Office Packages edited in OneDrive by multiple users simultaneously. Though OneDrive is a cloud storage solution like Dropbox and Google Drive, they all offers limited version control system that typically offers 30 days validity version controls for free tier user. Premium users have unlimited validity for version control files.
+
+User set their own file nomenclature and do collaboration work. In background the cloud storage hosting execute smart backup automatically for the version control.
 
 Yet another #NoCode solution for data organizer.
 
